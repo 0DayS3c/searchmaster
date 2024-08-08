@@ -56,7 +56,7 @@
 <p>This tool is provided as-is. Use it at your own risk.</p>
 
 <h2>Contact</h2>
-<p>For any issues or questions, please contact the maintainer at <a href="iakashwickramage@gmail.com">your-email@example.com</a>.</p>
+<p>For any issues or questions, please contact the maintainer at <a href="iakashwickramage@gmail.com">iakashwickramage@gmail.com</a>.</p>
 
 </body>
 </html>
